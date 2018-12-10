@@ -1,0 +1,758 @@
+Lil Daddy Salad#2560:test
+Lil Daddy Salad#2560:test
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+commonfolk123#5062:B!unbox
+commonfolk123#5062:B!cd
+BoxBot#7194:<@318485266774097921> -> <:uncommon_u:414199385833078809><:uncommon_n:414199387019804693><:uncommon_c:414199385707249664><:uncommon_o:414199385396740108><:uncommon_m:414199386063634462><:uncommon_m:414199386063634462><:uncommon_o:414199385396740108><:uncommon_n:414199387019804693> **pickaxe** and <:exp:430736413156179988> **14 EXP** received! You may use this command again in **01:00:00**.
+BoxBot#7194:<@318485266774097921> -> Your cooldowns:
+commonfolk123#5062:B!weekly
+BoxBot#7194:<@318485266774097921> -> You have received <:ultra_rare_box:429436007159431171> `ultra_rare_box` **x1** as your weekly reward!
+commonfolk123#5062:B!use ultra
+BoxBot#7194:<@318485266774097921> -> <:ultrarare_u:414201683703496714><:ultrarare_l:414201682596069376><:ultrarare_t:414201683225214976><:ultrarare_r:414201682935808022><:ultrarare_a:414201682952716288>     <:ultrarare_r:414201682935808022><:ultrarare_a:414201682952716288><:ultrarare_r:414201682935808022><:ultrarare_e:414201682709184513> **.308_winchester_bullet** received!
+commonfolk123#5062:B!inv
+BoxBot#7194:<@318485266774097921> -> **Getting inventory. Please wait...**
+commonfolk123#5062:B!daily
+commonfolk123#5062:B!use rare
+BoxBot#7194:<@318485266774097921> -> <:rare_r:414200304981114925><:rare_a:414200304695902209><:rare_r:414200304981114925><:rare_e:414200304888709121> **tomahawk** received!
+commonfolk123#5062:B!use rare
+BoxBot#7194:<@318485266774097921> -> <:rare_r:414200304981114925><:rare_a:414200304695902209><:rare_r:414200304981114925><:rare_e:414200304888709121> **lesser_health_potion** received!
+commonfolk123#5062:B!trivia
+BoxBot#7194:<@318485266774097921> ->
+commonfolk123#5062:B!use common
+BoxBot#7194:<@318485266774097921> -> <:common_c:414196911499902991><:common_o:414196911768076289><:common_m:414196911336062976><:common_m:414196911336062976><:common_o:414196911768076289><:common_n:414196911105507359> **frying_pan** received!
+commonfolk123#5062:B!us common
+BoxBot#7194:<@318485266774097921> -> <:common_c:414196911499902991><:common_o:414196911768076289><:common_m:414196911336062976><:common_m:414196911336062976><:common_o:414196911768076289><:common_n:414196911105507359> **.41_rimfire_bullet** received!
+commonfolk123#5062:B!use common
+BoxBot#7194:<@318485266774097921> -> <:common_c:414196911499902991><:common_o:414196911768076289><:common_m:414196911336062976><:common_m:414196911336062976><:common_o:414196911768076289><:common_n:414196911105507359> **wooden_arrow** received!
+commonfolk123#5062:$dungeon
+IdleRPG#8939:Oops! You forgot a required argument: `dungeonnumber`
+commonfolk123#5062:$merge 2665525 2665551
+IdleRPG#8939:The seconds item's stat must be in the range of `15.00` to `25.00` to upgrade an item with the stat of `20.00`.
+commonfolk123#5062:As a note, trying to pin a message, and then deleting it, deletes both the message and the pin.
+DreX#6390:<@492341703655817237>
+DreX#6390:c koi les devoirs pr demain
+commonfolk123#5062:B!trivia
+BoxBot#7194:<@318485266774097921> -> You must wait another **00:02:06** before you can use this command again.
+commonfolk123#5062:B!trivia
+BoxBot#7194:<@318485266774097921> ->
+commonfolk123#5062:B!use common
+BoxBot#7194:<@318485266774097921> -> <:common_c:414196911499902991><:common_o:414196911768076289><:common_m:414196911336062976><:common_m:414196911336062976><:common_o:414196911768076289><:common_n:414196911105507359> **frying_pan** received!
+commonfolk123#5062:B!use common
+BoxBot#7194:<@318485266774097921> -> <:uncommon_u:414199385833078809><:uncommon_n:414199387019804693><:uncommon_c:414199385707249664><:uncommon_o:414199385396740108><:uncommon_m:414199386063634462><:uncommon_m:414199386063634462><:uncommon_o:414199385396740108><:uncommon_n:414199387019804693> **.45_acp_bullet** received!
+commonfolk123#5062:B!item frying
+BoxBot#7194:<@318485266774097921> ->
+commonfolk123#5062:B2sell frying
+commonfolk123#5062:B1sell frying
+BoxBot#7194:<@318485266774097921> -> Are you sure you want to sell <:frying_pan:435211089576198155> `frying_pan` **(x1)** for <:money:429222140777332738> **$321.75**?
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+commonfolk123#5062:$merge 2665525 2665493
+IdleRPG#8939:You are on cooldown. Try again in 0:35:56.
+Lil Daddy Salad#2560:we know
+Lil Daddy Salad#2560:!lb
+UnbelievaBoat#1046:
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Lil Daddy Salad#2560:!ping
+Commie Bot#9138:<@385084144524460033> pong!
+UnbelievaBoat#1046:Pinging...
+Lil Daddy Salad#2560:b1ping
+BoxBot#7194:<@385084144524460033> ->
+commonfolk123#5062:$merge 2665525 2665493
+IdleRPG#8939:The damage of your **Famous Sword** is now **21.00**. The other item was destroyed.
+commonfolk123#5062:$crates
+IdleRPG#8939:You currently have **0** crates, <@318485266774097921>! Use `$open` to open one!
+commonfolk123#5062:$activeadventure 1
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 100
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 120
+
+Enemy
+HP......: 120
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 120
+
+Enemy
+HP......: 119
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 120
+
+Enemy
+HP......: 118
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **11** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 109
+
+Enemy
+HP......: 97
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 109
+
+Enemy
+HP......: 96
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **27** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 82
+
+Enemy
+HP......: 75
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **31** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 51
+
+Enemy
+HP......: 54
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 71
+
+Enemy
+HP......: 54
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 71
+
+Enemy
+HP......: 53
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 71
+
+Enemy
+HP......: 53
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 91
+
+Enemy
+HP......: 53
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 91
+
+Enemy
+HP......: 52
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 91
+
+Enemy
+HP......: 52
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 111
+
+Enemy
+HP......: 52
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 111
+
+Enemy
+HP......: 51
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **24** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 87
+
+Enemy
+HP......: 30
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **18** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 69
+
+Enemy
+HP......: 9
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 69
+
+Enemy
+HP......: 9
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 89
+
+Enemy
+HP......: 29
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **26** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 63
+
+Enemy
+HP......: 8
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 63
+
+Enemy
+HP......: 8
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 0%
+HP......: 63
+
+Enemy
+HP......: 7
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **24** damage.
+IdleRPG#8939:Enemy defeated! You gained **20 HP**
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 59
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy hit you for **20** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 59
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 79
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 99
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 119
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 139
+
+Enemy
+HP......: 120
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 159
+
+Enemy
+HP......: 120
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 179
+
+Enemy
+HP......: 120
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 199
+
+Enemy
+HP......: 120
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 219
+
+Enemy
+HP......: 140
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy hit you for **27** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 212
+
+Enemy
+HP......: 140
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy hit you for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 211
+
+Enemy
+HP......: 140
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Recover
+IdleRPG#8939:You healed yourself for 20 HP.
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 231
+
+Enemy
+HP......: 160
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **24** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 207
+
+Enemy
+HP......: 139
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **18** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 189
+
+Enemy
+HP......: 118
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 189
+
+Enemy
+HP......: 117
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **10** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 179
+
+Enemy
+HP......: 96
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **23** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 156
+
+Enemy
+HP......: 75
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 156
+
+Enemy
+HP......: 75
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 156
+
+Enemy
+HP......: 74
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **24** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 132
+
+Enemy
+HP......: 53
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 132
+
+Enemy
+HP......: 53
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **24** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 108
+
+Enemy
+HP......: 32
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 108
+
+Enemy
+HP......: 32
+
+Use attack, defend or recover
+```
+commonfolk123#5062:A
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 108
+
+Enemy
+HP......: 31
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **14** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 18%
+HP......: 94
+
+Enemy
+HP......: 10
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **27** damage.
+IdleRPG#8939:Enemy defeated! You gained **20 HP**
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 35%
+HP......: 87
+
+Enemy
+HP......: 100
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:The enemy healed himself for 20 HP.
+IdleRPG#8939:You hit the enemy for **21** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 35%
+HP......: 87
+
+Enemy
+HP......: 99
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+IdleRPG#8939:Your attack was blocked!
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 35%
+HP......: 87
+
+Enemy
+HP......: 99
+
+Use attack, defend or recover
+```
+commonfolk123#5062:Attack
+commonfolk123#5062:Attack
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **28** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 35%
+HP......: 59
+
+Enemy
+HP......: 78
+
+Use attack, defend or recover
+```
+IdleRPG#8939:You hit the enemy for **21** damage, he hit you for **17** damage.
+IdleRPG#8939:**commonfolk123's Adventure**
+```
+Progress: 35%
+HP......: 42
+
+Enemy
+HP......: 57
+
+Use attack, defend or recover
+```
+Lil Daddy Salad#2560:jsp
+Lil Daddy Salad#2560:!hello
+Lil Daddy Salad#2560:Francais jcrois
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Lil Daddy Salad#2560:hello
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Lil Daddy Salad#2560:!hello
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Commie Bot#9138:Hello <@385084144524460033>
+Commie Bot#9138:<@385084144524460033> has leveled up to level2
+Commie Bot#9138:<@520591007243436042> has leveled up to level2
+Commie Bot#9138:<@520591007243436042> has leveled up to level2
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Commie Bot#9138:<@385084144524460033> has leveled up to level2
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
+Lil Daddy Salad#2560:!hello
+Commie Bot#9138:Hello <@385084144524460033>
